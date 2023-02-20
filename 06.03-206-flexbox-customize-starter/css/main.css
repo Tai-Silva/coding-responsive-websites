@@ -97,7 +97,7 @@ textarea {
 
 /*Large Background Image*/
 html {
-  background: url('/Users/tainarasilva/Downloads/06.03-206-flexbox-customize-starter/img/responsive-design.jpg') no-repeat center center fixed;
+  background: url('/Users/tainarasilva/Desktop/coding-responsive-websites/06.03-206-flexbox-customize-starter/img/responsive-design.jpg') no-repeat center center fixed;
   height:100%;
   background-size: cover;
    /* set height to 100% - these are important for allowing content to vertically align */
